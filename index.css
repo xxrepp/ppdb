@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+
+.header{
+    font-size: 80px;
+    
+}
+
+.logo{
+    width: 100px;
+}
+
+.container{
+    margin-top: 50px;
+}
